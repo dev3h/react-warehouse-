@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { connect } from 'react-redux'
 import { LockOutlined, MailOutlined } from '@ant-design/icons';
 import { Button, Form, Input, Alert } from "antd";
-import { signUp, showAuthMessage, showLoading, hideAuthMessage } from 'redux/actions/Auth';
+import { signUp, showAuthMessage, showLoading, hideAuthMessage } from '@/redux/actions/Auth';
 import { useHistory } from "react-router-dom";
 import { motion } from "framer-motion"
 
