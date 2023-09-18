@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Quản lý sinh viên",
+        "code": "SM",
+        "createdAt": "2022-07-14T04:48:41.687Z",
+        "updatedAt": "2022-07-14T04:48:41.687Z"
+    },
+    {
+        "id": 2,
+        "name": "Quản lý giảng viên",
+        "code": "LM",
+        "createdAt": "2022-07-14T04:48:41.687Z",
+        "updatedAt": "2022-07-14T04:48:41.687Z"
+    },
+    {
+        "id": 3,
+        "name": "Quản lý nhân sự",
+        "code": "HRM",
+        "createdAt": "2022-07-14T04:48:41.687Z",
+        "updatedAt": "2022-07-14T04:48:41.687Z"
+    },
+    {
+        "id": 6,
+        "name": "QLTV",
+        "code": "LMS",
+        "createdAt": "2022-07-14T06:49:51.646Z",
+        "updatedAt": "2022-07-14T06:49:51.646Z"
+    }
+]
